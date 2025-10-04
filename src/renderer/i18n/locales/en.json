@@ -1,0 +1,27 @@
+{
+  "titlebar": {
+    "minimize": "Minimize",
+    "maximize": "Maximize",
+    "restore": "Restore",
+    "close": "Close"
+  },
+  "app": {
+    "title": "OurUI Tool v4"
+  },
+  "navigation": {
+    "home": "Home",
+    "users": "User Management",
+    "about": "About",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": {
+      "title": "Language Settings",
+      "description": "Choose the display language for the application",
+      "current": "Current Language",
+      "chinese": "中文",
+      "english": "English"
+    }
+  }
+}
